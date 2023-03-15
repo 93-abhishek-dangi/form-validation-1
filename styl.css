@@ -17,7 +17,9 @@ button{display: inline-block; background: brown; color: #fff; border-radius: 10p
  @media screen and (max-width:860px){
     form{width: 80%;}
     .input-group{display: flex; flex-direction: column;}
-    .flex{ flex-direction: column;}
+    .flex{ flex-direction: column;width: 90%;}
+     input{width: 90%;}
+    textarea{width: 90%;}
  }
 
 
